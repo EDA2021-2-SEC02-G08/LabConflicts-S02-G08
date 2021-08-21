@@ -28,6 +28,6 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
 
-Estudiante 1: Juan Camilo Neira
+Estudiante 1: Juan Camilo Neira Campos, j.neira@uniandes.edu.co, 201922746
 
 Estudiante 2: Daniel Dorado Toro
