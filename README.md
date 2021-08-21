@@ -30,4 +30,4 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 Estudiante 1: Juan Camilo Neira Campos, j.neira@uniandes.edu.co, 201922746
 
-Estudiante 2: Daniel Dorado Toro
+Estudiante 2: Daniel Dorado Toro, df.dorado@uniandes.edu.co, 201821010
